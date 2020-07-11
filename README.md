@@ -17,8 +17,8 @@ Meu nome é Moisés Junior, tenho 20 anos e sou formado em Análise e Desenvolvi
   Trabalho como Desenvolvedor Web Trainee, com foco em PHP e MySQL para a empresa JZCI.
    
 :phone: **Onde me encontras?**
-  - :linkedin: [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
-  - :twitter: [Twitter](https://twitter.com/nemmoises)
+  - <img src="https://user-images.githubusercontent.com/39142084/87230133-05492300-c384-11ea-89cb-ac46e4103b75.png" heigth="20" width="20"> [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
+  - <img src="https://user-images.githubusercontent.com/39142084/87230029-48ef5d00-c383-11ea-83ac-bf75250d8f7e.png" heigth="20" width="20"> [Twitter](https://twitter.com/nemmoises)
 
 <!--
 **moisesjunior/moisesjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
