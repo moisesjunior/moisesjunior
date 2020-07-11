@@ -2,7 +2,7 @@
 
 Meu nome é Moisés Junior, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-ID. Me aventuro com linguagens de programação há, mais ou menos, 3 anos e meio.
 
-:satisfied: ## Aficionado por:
+:satisfied: **Aficionado por:**
   - JavaScript;
   - PHP;
   - NodeJS;
@@ -13,10 +13,10 @@ Meu nome é Moisés Junior, tenho 20 anos e sou formado em Análise e Desenvolvi
   - Futebol;
   - Família Ackerman;
   
-:office: ## Trabalho atual:
+:office: **Trabalho atual:**
   Trabalho como Desenvolvedor Web Trainee, com foco em PHP e MySQL para a empresa JZCI.
    
-:phone: ## Onde me encontras?
+:phone: **Onde me encontras?**
   - :linkedin: [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
   - :twitter: [Twitter](https://twitter.com/nemmoises)
 
