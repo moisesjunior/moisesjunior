@@ -1,24 +1,24 @@
-# Seja bem-vindo!!!! 👋
+# Welcome!!!! 👋
 
-Meu nome é Moisés Junior, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela FATEC-ID. Me aventuro com linguagens de programação há, mais ou menos, 3 anos e meio.
+My name is Moisés Junior, I'm 20 years old and I live in Indaiatuba, São Paulo! I love to study about infrastructure in AWS, frameworks JS and Blockchain!!
 
-:satisfied: **Aficionado por:**
-  - JavaScript;
-  - PHP;
-  - NodeJS;
-  - ReacJS;
-  - React Native;
-  - TDD;
+:satisfied: **Passioned by:**
   - Animes;
-  - Futebol;
-  - Família Ackerman;
+  - Palmeiras;
+  - Beers;
   
-:office: **Trabalho atual:**
-  Trabalho como Desenvolvedor Web Trainee, com foco em PHP e MySQL para a empresa JZCI.
+:office: **I'm currently working as a:**
+  Fullstack Junior Web Developer at Smart Innovation - Indaiatuba/SP. You can find them here: https://www.linkedin.com/company/smartinnovationbr/.
    
-:phone: **Onde me encontras?**
-  - <img src="https://user-images.githubusercontent.com/39142084/87230133-05492300-c384-11ea-89cb-ac46e4103b75.png" heigth="20" width="20"> [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
+:phone: **How to reach me?**
+  <img src="https://user-images.githubusercontent.com/39142084/87230133-05492300-c384-11ea-89cb-ac46e4103b75.png" heigth="20" width="20"> [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
 
+🔭 I’m currently working on ...
+  - A project to help a shool with their finances and students.
+  - A e-commerce website to sell coffee.
+
+💬 Ask me about ...
+  Anything! We're all here to learn and help each other.
 <!--
 **moisesjunior/moisesjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
