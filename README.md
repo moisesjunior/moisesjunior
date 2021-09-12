@@ -1,11 +1,6 @@
 # Welcome!!!! 👋
 
-My name is Moisés Junior, I'm 20 years old and I live in Indaiatuba, São Paulo! I love to study about infrastructure in AWS, frameworks JS and Blockchain!!
-
-:satisfied: **Passioned by:**
-  - Animes;
-  - Palmeiras;
-  - Beers;
+I'm Moisés Junior! Here you can find a lot of nothing or somenthing useful to solve your problems!! That's it, I'm a web developer and work with Javascript and its frameworks (ReactJS, NodeJS, NestJs, etc...);
   
 :office: **I'm currently working as a:**
   - Fullstack Junior Web Developer at Smart Innovation - Indaiatuba/SP. You can find them here: https://www.linkedin.com/company/smartinnovationbr/.
@@ -15,7 +10,6 @@ My name is Moisés Junior, I'm 20 years old and I live in Indaiatuba, São Paulo
 
 🔭 I’m currently working on ...
   - A project to help a shool with their finances and students.
-  - A e-commerce website to sell coffee.
 
 💬 Ask me about ...
   - Anything! We're all here to learn and help each other.
