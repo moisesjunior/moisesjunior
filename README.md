@@ -1,15 +1,20 @@
 # Welcome!!!! 👋
 
-I'm Moisés Junior! Here you can find a lot of nothing or somenthing useful to solve your problems!! That's it, I'm a web developer and work with Javascript and its frameworks (ReactJS, NodeJS, NestJs, etc...);
+I'm Moisés Junior! Here you can find everything I've built on my own!! It's very empty, I know, but I'm working on it!!
+
+I'm a web developer, and work with a lot of cool stuff such as AWS, Zenvia, MongoDB, Microservices and more...
   
 :office: **I'm currently working as a:**
-  - Fullstack Junior Web Developer at Smart Innovation - Indaiatuba/SP. You can find them here: https://www.linkedin.com/company/smartinnovationbr/.
+  - Tech Lead at Smart Innovation - Indaiatuba/SP. You can find them here: https://www.linkedin.com/company/smartinnovationbr/.
    
 :phone: **How to reach me?**
   - <img src="https://user-images.githubusercontent.com/39142084/87230133-05492300-c384-11ea-89cb-ac46e4103b75.png" heigth="20" width="20"> [Linkedin](https://www.linkedin.com/in/mois%C3%A9s-junior-798354146/)
+  - <img src="https://user-images.githubusercontent.com/39142084/154871908-6183be3f-dd99-4725-b4f5-c0c3d40ac26e.png" height="20" width="20"> [Twitter](https://twitter.com/nemmoises)
+
 
 🔭 I’m currently working on ...
-  - A project to help a shool with their finances and students.
+  - An interface between a store and a customer using WhatsApp and Movidesk.
+  - Match<IT> (https://app.matchit.com.br/)
 
 💬 Ask me about ...
   - Anything! We're all here to learn and help each other.
